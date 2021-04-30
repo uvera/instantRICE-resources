@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Purple chaos",
+        "instantWM": {
+            "minimizedColor": "#393156",
+            "bgColor": "#191A2A",
+            "hoverShadowColor": "#6E529C",
+            "hoverBgColor": "#9A7ACF",
+            "minimize": "#8960CD",
+            "darkMinimize": "#6E529C",
+            "darkActiveTag": "#D130DD",
+            "activeTag": "#F45DFF",
+            "hoverFocus": "#7A64A0",
+            "darkHoverFocus": "#6E5991",
+            "darkFocus": "#6E529C",
+            "focus": "#9A7ACF",
+            "border": "#191A2A",
+            "activeBorder": "#9A7ACF",
+            "close": "#F45DFF",
+            "darkClose": "#D130DD",
+            "hoverClose": "#DC2985",
+            "darkHoverClose": "#C82378"
+        },
+        "instantMENU": {
+            "norm": {
+                "fg": "#DDDDDD",
+                "bg": "#191A2A",
+                "detail": "#6E5991"
+            },
+            "fade": {
+                "fg": "#9A7ACF",
+                "bg": "#191A2A",
+                "detail": "#6E5991"
+            },
+            "highlight": {
+                "fg": "#DDDDDD",
+                "bg": "#0F0420",
+                "detail": "#6E5991"
+            },
+            "hover": {
+                "fg": "#DDDDDD",
+                "bg": "#7A64A0",
+                "detail": "#6E5991"
+            },
+            "sel": {
+                "fg": "#DDDDDD",
+                "bg": "#F45DFF",
+                "detail": "#D130DD"
+            },
+            "out": {
+                "bg": "#F45DFF",
+                "detail": "#D130DD"
+            },
+            "green": {
+                "fg": "#DDDDDD"
+            },
+            "red": {
+                "fg": "#DDDDDD"
+            },
+            "yellow": {
+                "fg": "#DDDDDD"
+            }
+        }
+    },
+    {
+        "name": "InstantNIX",
+        "instantWM": {
+            "minimizedColor": "#5c669b",
+            "bgColor": "#212337",
+            "hoverShadowColor": "#5c669b",
+            "hoverBgColor": "#7a88cf",
+            "minimize": "#7a88cf",
+            "darkMinimize": "#5c669b",
+            "darkActiveTag": "#FF79Ce",
+            "activeTag": "#FF92Da",
+            "hoverFocus": "#7a64a0",
+            "darkHoverFocus": "#6e5991",
+            "darkFocus": "#5c669b",
+            "focus": "#7a88cf"
+        },
+        "instantMENU": {
+            "norm": {
+                "fg": "#DDDDDD",
+                "bg": "#191A2A",
+                "detail": "#6E5991"
+            },
+            "fade": {
+                "fg": "#9A7ACF",
+                "bg": "#191A2A",
+                "detail": "#6E5991"
+            },
+            "highlight": {
+                "fg": "#DDDDDD",
+                "bg": "#0F0420",
+                "detail": "#6E5991"
+            },
+            "hover": {
+                "fg": "#DDDDDD",
+                "bg": "#7A64A0",
+                "detail": "#6E5991"
+            },
+            "sel": {
+                "fg": "#DDDDDD",
+                "bg": "#F45DFF",
+                "detail": "#D130DD"
+            },
+            "out": {
+                "fg": "#DDDDDD",
+                "bg": "#F45DFF",
+                "detail": "#D130DD"
+            },
+            "green": {
+                "fg": "#DDDDDD",
+                "bg": "#52e067",
+                "detail": "#35ca4b"
+            },
+            "red": {
+                "fg": "#DDDDDD",
+                "bg": "#e0527e",
+                "detail": "#ca3563"
+            },
+            "yellow": {
+                "fg": "#DDDDDD",
+                "bg": "#e09f52",
+                "detail": "#ca8635"
+            }
+        }
+    }
+]

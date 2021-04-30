@@ -125,5 +125,76 @@
                 "detail": "#ca8635"
             }
         }
+    },
+    {
+        "name": "Orangina",
+        "instantWM": {
+            "minimizedColor": "#8d2b03",
+            "bgColor": "#151515",
+            "hoverShadowColor": "#e94016",
+            "hoverBgColor": "#f25730",
+            "minimize": "#761c1c",
+            "darkMinimize": "#4a0000",
+            "darkActiveTag": "#ff3400",
+            "activeTag": "#cb2e07",
+            "hoverFocus": "#cb2e07",
+            "darkHoverFocus": "#ff3400",
+            "darkFocus": "#e94016",
+            "focus": "#f25730",
+            "border": "#151515",
+            "activeBorder": "#b52c2c",
+            "close": "#df1e1e",
+            "darkClose": "#b20c0c",
+            "hoverClose": "#d40000",
+            "darkHoverClose": "#ae0303"
+        },
+        "instantMENU": {
+            "norm": {
+                "fg": "#eeeeee",
+                "bg": "#151515",
+                "detail": "#ff3400"
+            },
+            "fade": {
+                "fg": "#e94016",
+                "bg": "#151515",
+                "detail": "#ff3400"
+            },
+            "highlight": {
+                "fg": "#eeeeee",
+                "bg": "#111111",
+                "detail": "#cb2e07"
+            },
+            "hover": {
+                "fg": "#eeeeee",
+                "bg": "#cb2e07",
+                "detail": "#ff3400"
+            },
+            "sel": {
+                "fg": "#eeeeee",
+                "bg": "#f25730",
+                "detail": "#e94016"
+            },
+            "out": {
+                "fg": "#eeeeee",
+                "bg": "#f25730",
+                "detail": "#e94016"
+            },
+            "green": {
+                "fg": "#eeeeee",
+                "bg": "#317813",
+                "detail": "#246b06"
+            },
+            "red": {
+                "fg": "#eeeeee",
+                "bg": "#df1e1e",
+                "detail": "#b20c0c"
+            },
+            "yellow": {
+                "fg": "#eeeeee",
+                "bg": "#ffcf00",
+                "detail": "#dab207"
+            }
+        }
+
     }
 ]

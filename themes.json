@@ -63,6 +63,66 @@
         }
     },
     {
+        "name": "Dracula",
+        "instantWM": {
+            "bgColor": "#212337",
+            "hoverShadowColor": "#5c669b",
+            "hoverBgColor": "#7a88cf",
+            "minimize": "#7a88cf",
+            "darkMinimize": "#5c669b",
+            "darkActiveTag": "#FF79Ce",
+            "activeTag": "#FF92Da",
+            "hoverFocus": "#7a64a0",
+            "darkHoverFocus": "#6e5991",
+            "darkFocus": "#5c669b",
+            "focus": "#7a88cf",
+            "border": "#212337",
+            "activeBorder": "#7a88cf"
+        },
+        "instantMENU": {
+            "norm": {
+                "fg": "#D2D2D2",
+                "bg": "#1e1f29",
+                "detail": "#7a88cf"
+            },
+            "fade": {
+                "fg": "#5c669b",
+                "bg": "#1e1f29",
+                "detail": "#7a88cf"
+            },
+            "highlight": {
+                "fg": "#D2D2D2",
+                "bg": "#212337",
+                "detail": "#7a88cf"
+            },
+            "hover": {
+                "fg": "#D2D2D2",
+                "bg": "#7a88cf",
+                "detail": "#5c669b"
+            },
+            "sel": {
+                "fg": "#D2D2D2",
+                "bg": "#7a88cf",
+                "detail": "#5c669b"
+            },
+            "out": {
+                "bg": "#5c669b",
+                "detail": "#7a88cf"
+            },
+            "green": {
+                "fg": "#D2D2D2",
+                "bg": "#4ee176"
+            },
+            "red": {
+                "fg": "#D2D2D2",
+                "bg": "#da4453"
+            },
+            "yellow": {
+                "fg": "#D2D2D2"
+            }
+        }
+    },
+    {
         "name": "InstantNIX",
         "instantWM": {
             "minimizedColor": "#5c669b",

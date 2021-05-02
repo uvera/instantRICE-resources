@@ -255,6 +255,75 @@
                 "detail": "#dab207"
             }
         }
-
+    },
+    {
+        "name": "XeroOl",
+        "instantWM": {
+            "minimizedColor": "#747c90",
+            "bgColor": "#292f3a",
+            "hoverShadowColor": "#475166",
+            "hoverBgColor": "#596377",
+            "minimize": "#b77ca7",
+            "darkMinimize": "#8b3b93",
+            "darkActiveTag": "#b7416e",
+            "activeTag": "#e16a98",
+            "hoverFocus": "#82ceaa",
+            "darkHoverFocus": "#5ea584",
+            "darkFocus": "#447a61",
+            "focus": "#5ea584",
+            "border": "#912e54",
+            "activeBorder": "#5ea584",
+            "close": "#e16a98",
+            "darkClose": "#b7416e",
+            "hoverClose": "#d37492",
+            "darkHoverClose": "#ce577c"
+        },
+        "instantMENU": {
+            "norm": {
+                "fg": "#dddddd",
+                "bg": "#292f3a",
+                "detail": "#3e485b"
+            },
+            "fade": {
+                "fg": "#575e70",
+                "bg": "#292f3a",
+                "detail": "#3e485b"
+            },
+            "highlight": {
+                "fg": "#dddddd",
+                "bg": "#353d4b",
+                "detail": "3e485b"
+            },
+            "hover": {
+                "fg": "#dddddd",
+                "bg": "#353d4b",
+                "detail": "#3e485b"
+            },
+            "sel": {
+                "fg": "#dddddd",
+                "bg": "#5ea584",
+                "detail": "#3e485b"
+            },
+            "out": {
+                "fg": "#dddddd",
+                "bg": "#5ea584",
+                "detail": "#5ea584"
+            },
+            "green": {
+                "fg": "#dddddd",
+                "bg": "#bde077",
+                "detail": "#b7ce42"
+            },
+            "red": {
+                "fg": "#dddddd",
+                "bg": "#e16a98",
+                "detail": "#b7416e"
+            },
+            "yellow": {
+                "fg": "#dddddd",
+                "bg": "#fea63c",
+                "detail": "#cb8735"
+            }
+        }
     }
 ]
